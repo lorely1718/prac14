@@ -1,0 +1,34 @@
+body{
+	background-color:yellow;
+
+}
+
+h1{
+	background-color: #00FFFF;
+	text-align: center;
+	font-family: Arial;
+ 	 
+}
+
+h2{
+	background-color: #8A2BE2;
+	text-align: left;
+	font-family: Arial;
+	 
+
+}
+
+a{
+	background-color: #F5A9F2;
+	text-align: center;
+	font-family: Arial;
+	 
+
+}
+
+
+input{
+	background-color: #F08080;
+	
+
+}
